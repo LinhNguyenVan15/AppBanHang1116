@@ -1,0 +1,5 @@
+Ph?m m?m dùng :android studio,xampp,sublinetext
+
+Picasso là m?t thu vi?n Android mã ngu?n m? r?t ph? bi?n, dùng d? load ho?c hi?n th? hình ?nh trong ?ng d?ng Android.
+ thu vi?n picasso : giúp h? tr? d?c url hình ?nh t? internet v?.
+tu vi?n volley: giúp d?c n?i dung url t? internet v?.
